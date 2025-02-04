@@ -1,1 +1,1 @@
-Trans right are human rights.
+Trans rights are human rights.
