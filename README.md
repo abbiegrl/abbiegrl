@@ -13,5 +13,6 @@
 > I'm urgently seeking financial aid to help cover the cost of gender-affirming surgery.
 > Any support, no matter the amount, would mean so much to me.
 > I deeply appreciate your help. Thank you. ♡ 
-> 
+> - https://ko-fi.com/abbieshark
+
 <sup>Trans rights are human rights.</sup>
