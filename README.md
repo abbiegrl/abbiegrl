@@ -15,4 +15,4 @@
 > 
 > I deeply appreciate your help. Thank you. <3
 
-Trans rights are human rights.
+<sub>Trans rights are human rights.</sub>
