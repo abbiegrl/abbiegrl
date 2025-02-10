@@ -14,5 +14,5 @@
 > Any support, no matter the amount, would mean so much to me.
 > 
 > I deeply appreciate your help. Thank you. <3
-
-<sub>Trans rights are human rights.</sub>
+> 
+<sup>Trans rights are human rights.</sup>
