@@ -2,7 +2,7 @@
 <a>
   <picture>
     <img 
-      src="https://storage.ko-fi.com/cdn/useruploads/D1D181D8I/qrcode.png"
+      src="https://github.com/abbiecnt/abbiecnt/blob/main/.github/qrcode.png"
       align="right"
       width="15%"
       alt="QR coe to Abbie's kofi page." />
