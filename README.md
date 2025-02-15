@@ -1,5 +1,5 @@
 # Hi, I'm Abbie and I keep forgetting things.
-<a>
+<a href="https://ko-fi.com/abbieshark">
   <picture>
     <img 
       src="https://github.com/abbiecnt/abbiecnt/blob/main/.github/qrcode.png"
