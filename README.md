@@ -1,18 +1,7 @@
 # Hi, I'm Abbie and I keep forgetting things.
-<a href="https://ko-fi.com/abbieshark">
-  <picture>
-    <img 
-      src="https://github.com/abbiecnt/abbiecnt/blob/main/.github/qrcode.png"
-      align="right"
-      width="15%"
-      alt="QR coe to Abbie's kofi page." />
-  </picture>
-</a>
+> [!IMPORTANT]\
+> Abbie is raising funds to cover the cost of facial feminization surgery (FFS), as well as the related expenses for accommodation and travel.
+> 
+> I'm desperately trying to raise funds to finally fix up my face and be able to live a normal life, this would be life saving for me so any little help would mean the world to me, please consider helping out.
+> - https://ko-fi.com/abbiegrl/goal
 
-> [!CAUTION]\
-> I'm urgently seeking financial aid to help cover the cost of gender-affirming surgery.
-> Any support, no matter the amount, would mean so much to me.
-> I deeply appreciate your help. Thank you. ♡ 
-> - https://ko-fi.com/abbieshark or scan the QR code.
-
-<sup>Trans rights are human rights.</sup>
